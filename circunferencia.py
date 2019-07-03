@@ -2,6 +2,7 @@
 #Objetivo: calcula el área y diametro de una circunferencia e import math
 #Autor: Luis Javier Ortiz Olguin
 #Fecha: 01 de julio de 2019
+# Hola mundo peludo
 
 import math as mat
 from os import system
